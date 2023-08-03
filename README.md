@@ -6,7 +6,7 @@ CronParserTest.java: Contains test cases for CronParser.java.
 
 
 To use the CronParser application, run the following command in the terminal, follow below steps
-1. Open the terminal and navigate to the CronParser directory.
+1. Open the terminal/CMD and navigate to the CronParser directory.
 2. Compile source files using the javac command:
       javac CronParser.java
 3. run the following command in the terminal
@@ -16,7 +16,7 @@ To use the CronParser application, run the following command in the terminal, fo
 How to Run Tests(with test class provided) : 
 To run the test cases for the CronParser application, follow these steps:
 
-1. Open the terminal and navigate to the CronParser directory.
+1. Open the terminal/CMD and navigate to the CronParser directory.
 2. Compile both source files (main code and test code) using the javac command:
       javac CronParser.java CronParserTest.java
 3. Run the test class using the java command:
